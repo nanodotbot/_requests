@@ -1,0 +1,5 @@
+{
+    "u1" : { "user" : "nada", "age" : 21, "hobbies" : "skinny dipping" },
+    "u2" : { "user" : "algernon", "age" : 5, "hobbies" : "reading" },
+    "u3" : { "user" : "aisle nevertell", "age" : 9999999, "hobbies" : "keeping secrets"}
+}
